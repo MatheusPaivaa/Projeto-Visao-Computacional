@@ -24,11 +24,25 @@ Full explanation of each operation can be found here: https://homepages.inf.ed.a
 
 ## <div id="gt"></div>Getting started
 
-1. Clone the repository to your local machine
-2. Compile the program using a C compiler (e.g., GCC).
-3. Run the compiled executable, providing the name of a PGM image file.
-4. Choose the desired operation or filter.
-5. The resulting image will be saved as "imagemGerada.pgm".
+- Clone the repository to your local machine
+```
+1. git clone https://github.com/tgmarinho/
+2. cd 
+```
+- Compile the program using a C compiler (e.g., GCC).
+```
+3. gcc -std=c99 .\image_generator.c -o imgGen 
+```
+- Run the compiled executable.
+```
+4. .\imgGen.exe
+```
+- Provide the name of a PGM image file.
+```
+5. PGM image file: exampleImage.pgm
+```
+- Choose the desired operation or filter.
+- The resulting image will be saved as "imagemGerada.pgm".
 
 **Note:** The code's comments provide detailed explanations of functions, operations, and logic.
 
