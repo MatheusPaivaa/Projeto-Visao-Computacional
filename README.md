@@ -26,7 +26,7 @@ Full explanation of each operation can be found here: https://homepages.inf.ed.a
 
 - Clone the repository to your local machine
 ```
-1. git clone https://github.com/MatheusPaivaa/digital-processing-project
+1. git clone https://github.com/MatheusPaivaa/image-processing-project
 2. cd imageGenerator
 ```
 - Compile the program using a C compiler (e.g., GCC).
