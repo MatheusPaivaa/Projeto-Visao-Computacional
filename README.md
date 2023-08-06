@@ -62,6 +62,23 @@ Full explanation of each operation can be found here: https://homepages.inf.ed.a
 
 ## <div id="ex"></div>Examples
 
+### Logarithm operator
+![fusca1](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/fusca.jpg)
+![fuscamod1](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/fusca_final.jpg)
+
+### Contrast Stretching
+![normal](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/normal_cs.png)
+![cs](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/cs.png)
+
+### Floodfill
+
+![folha](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/folha.jpg)
+![folha_final](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/folha_pintada.jpg)
+
+### Image Negative
+![normal](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/normal.png)
+![negativo](https://github.com/MatheusPaivaa/image-processing-project/blob/main/images/negativo.png)
+
 ## <div id="ak"></div>Aknowledgements
 <p align="justify">
 Please note that this program is designed for educational purposes and demonstrates image processing techniques in C. This is an extended version of the final project from the discipline Introduction do Computer Science (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo).
